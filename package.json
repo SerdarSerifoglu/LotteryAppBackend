@@ -1,0 +1,24 @@
+{
+  "name": "lotteryappbackend",
+  "version": "1.0.0",
+  "description": "Lottery App Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerdarSerifoglu/LotteryAppBackend.git"
+  },
+  "author": "Omer Serdar SERIFOGLU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerdarSerifoglu/LotteryAppBackend/issues"
+  },
+  "homepage": "https://github.com/SerdarSerifoglu/LotteryAppBackend#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "uuid": "^8.3.2"
+  }
+}

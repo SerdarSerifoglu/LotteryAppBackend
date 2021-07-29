@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2e37d633-e33d-4c60-aee6-b8794ad37613",
+    "name": "çekiliş test",
+    "participants": [
+      "Ahmet",
+      "xBoy",
+      "Çılgın Çocuk"
+    ],
+    "winner": "",
+    "createDate": 1627559729666
+  },
+  {
+    "id": "4563fc90-d7ae-48ed-b182-666c7df33453",
+    "name": "çekiliş test2",
+    "participants": [
+      "Melis",
+      "30_56",
+      "Çılgın Ahmet"
+    ],
+    "winner": "",
+    "createDate": 1627559729666
+  }
+]
