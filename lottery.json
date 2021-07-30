@@ -1,24 +1,16 @@
 [
   {
-    "id": "8a412bc0-c7e2-4ef1-88aa-bec0345826b8",
+    "id": "ac26a29e-0702-409e-82d4-b9a1ad1833e1",
     "name": "çekiliş test",
-    "participants": [
-      "Ahmet",
-      "xBoy",
-      "Çılgın Çocuk"
-    ],
+    "participants": [],
     "winner": "",
-    "createDate": 1627586616139
+    "createDate": 1627587622205
   },
   {
-    "id": "3df1a365-a32b-4c42-a9b7-911798785260",
+    "id": "41e7e914-c7e5-408e-86d4-e8b5845cade8",
     "name": "çekiliş test2",
-    "participants": [
-      "Melis",
-      "30_56",
-      "Çılgın Ahmet"
-    ],
+    "participants": [],
     "winner": "",
-    "createDate": 1627586616139
+    "createDate": 1627587622205
   }
 ]

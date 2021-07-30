@@ -12,7 +12,8 @@ class BaseDatabase {
 
   load = () => {
     const file = fs.readFileSync(`./${this.filename}.json`, "utf8");
-    return JSON.parse(file);
+    const objects = JSON.parse(file);
+    return objects.map(this.model.create);
   };
 
   insert = (object) => {
